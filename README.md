@@ -42,7 +42,7 @@ Customization:
 
 **Usage**
 
-Run the application setup in the Valentine_s Match\Release\setup.exe
+Run the application setup in the Valentine_s Match\Release\Valentine_s Match.msi
 
 - The time will start after pressing the start button.
 - The woman answers each logic question as it is presented.
